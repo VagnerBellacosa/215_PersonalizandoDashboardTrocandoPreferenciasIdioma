@@ -32,7 +32,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Personalizando Dashboard e trocando as preferências de idioma](https://web.dio.me/lab/personalizando-dashboard-e-trocando-as-preferencias-de-idioma/learning/5feb2405-621e-4994-aeef-d588d907105d)[Entendendo o desafio](https://web.dio.me/lab/personalizando-dashboard-e-trocando-as-preferencias-de-idioma/learning/fc69b5a9-26fe-4ea1-aa9a-2717266958cc)
+- [Personalizando Dashboard e trocando as preferências de idioma](https://web.dio.me/lab/personalizando-dashboard-e-trocando-as-preferencias-de-idioma/learning/5feb2405-621e-4994-aeef-d588d907105d)
+- [Entendendo o desafio](https://web.dio.me/lab/personalizando-dashboard-e-trocando-as-preferencias-de-idioma/learning/fc69b5a9-26fe-4ea1-aa9a-2717266958cc)
 
 
 
